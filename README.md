@@ -7,16 +7,31 @@ Also, I love crafting stories—whether it's through **code, analysis, or words*
 
 ---
 
+## 📊 GitHub Stats  
+![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical)  
+
+🔥 **Streak Stats**  
+![GitHub Streak](https://streak-stats.demolab.com/?user=h-khanum&theme=radical)  
+
+🌟 **Top Languages**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-khanum&layout=compact&theme=radical)  
+
+🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=h-khanum&theme=radical)  
+
+---
+
 ## 🛠️ Tech & Skills  
 🔹 **Languages:** Python, SQL, R  
 🔹 **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow  
 🔹 **Data Visualization:** Matplotlib, Seaborn  
 🔹 **AI & ML:** Deep Learning, NLP, Predictive Modeling  
-🔹 **Other:** Web Scraping, Git, Bash
+🔹 **Other:** Web Scraping, Git, Bash  
 
----
-
-*(Projects coming soon... 👀✨)*  
+### 🚀 Tools & Technologies  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23f88909?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
@@ -30,7 +45,12 @@ Also, I love crafting stories—whether it's through **code, analysis, or words*
 📅 I convince myself I work best under pressure… until I’m actually under pressure.  
 🧩 I get easily distracted—unless I’m hyper-focused, in which case, I forget the world exists.  
 🌌 I could stare at the **night sky for hours** and still think, *"Just five more minutes…"*  
-*(Ohkay now this is too much...)*
+*(Ohkay now this is too much...)*  
+
+---
+
+## 📌 Projects  
+*(Coming soon... 👀✨)*  
 
 ---
 
