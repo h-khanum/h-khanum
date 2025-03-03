@@ -11,7 +11,7 @@ Also, I love crafting stories—whether it's through **code, analysis, or words*
 ![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical)  
 
 🔥 **Streak Stats**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=h-khanum&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical)  
 
 🌟 **Top Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-khanum&layout=compact&theme=radical)  
