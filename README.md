@@ -8,7 +8,8 @@ Also, I love crafting stories—whether it's through **code, analysis, or words*
 ---
 
 ## 📊 GitHub Stats  
-![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical)
+![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical)  
+
 🔥 **Streak Stats**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical)  
 
