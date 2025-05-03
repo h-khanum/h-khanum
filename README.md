@@ -1,24 +1,16 @@
-# 👋 Hey there, I'm Hafsa Khanum!  
-### 🚀 Data Science Enthusiast | AI Explorer | Storyteller  
+#  Hey, I'm Hafsa!  
+### Data Science Enthusiast | AI Explorer | Storyteller  
 
-Welcome to my **GitHub space**—where data meets creativity! 📊✨  
+Welcome to my **GitHub space**—where data meets creativity!✨  
 I'm passionate about **solving real-world problems** with data and **building AI-driven solutions**.  
 Also, I love crafting stories—whether it's through **code, analysis, or words**.  
 
 ---
 
-## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical)
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical" alt="Hafsa's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
+<tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-khanum&layout=compact&theme=radical" alt="Top Languages" />
     </td>
@@ -38,9 +30,7 @@ Also, I love crafting stories—whether it's through **code, analysis, or words*
 🔹 **Other:** Web Scraping, Git, Bash  
 
 ### 🚀 Tools & Technologies  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23f88909?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23f88909?style=for-the-badge&logo=tensorflow&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
@@ -64,9 +54,7 @@ Also, I love crafting stories—whether it's through **code, analysis, or words*
 ---
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://linkedin.com/in/h-khanum)  
-📩 Email: hafsaa.khanum@gmail.com  
-📌 [Portfolio Website](https://h-khanum.github.io) (Coming soon 🚀)  
+💼 [LinkedIn](https://linkedin.com/in/h-khanum) 📩 [Email](hafsaa.khanum@gmail.com) 📌 [Portfolio Website](https://h-khanum.github.io) (Coming soon 🚀)  
 
 ---
 
