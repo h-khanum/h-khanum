@@ -8,16 +8,25 @@ Also, I love crafting stories—whether it's through **code, analysis, or words*
 ---
 
 ## 📊 GitHub Stats  
-![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical)  
 
-🔥 **Streak Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical)  
-
-🌟 **Top Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-khanum&layout=compact&theme=radical)  
-
-🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=h-khanum&theme=radical)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical" alt="Hafsa's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-khanum&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=h-khanum&theme=radical" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
 ---
 
