@@ -1,60 +1,35 @@
 #  Hey, I'm Hafsa!  
-### Data Science Enthusiast | AI Explorer | Storyteller  
+### Data Scientist | AI Explorer  
 
-Welcome to my **GitHub space**—where data meets creativity!✨  
-I'm passionate about **solving real-world problems** with data and **building AI-driven solutions**.  
-Also, I love crafting stories—whether it's through **code, analysis, or words**.  
+Welcome to my **GitHub space** 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical&count_private=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=h-khanum&theme=radical&margin-w=15" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-khanum&layout=compact&theme=radical&count_private=true" height="140"/>
+</p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-khanum&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical)
-
-<table>
-<tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-khanum&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=h-khanum&theme=radical" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech & Skills  
+## Tech & Skills  
 🔹 **Languages:** Python, SQL, R  
 🔹 **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow  
 🔹 **Data Visualization:** Matplotlib, Seaborn  
 🔹 **AI & ML:** Deep Learning, NLP, Predictive Modeling  
 🔹 **Other:** Web Scraping, Git, Bash  
 
-### 🚀 Tools & Technologies  
+### Tools & Technologies  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23f88909?style=for-the-badge&logo=tensorflow&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-## 🌟 Fun Facts About Me  
-🎭 I blend **data with storytelling**—because numbers tell stories too!  
-🎭 I treat my code like poetry—structured, expressive, and sometimes a little dramatic.  
-☕ A firm believer that **green tea + Python = ultimate productivity**.  
-⏳ I’m obsessed with **time travel theories**, but still can't figure out where my time goes.  
-🚶‍♀️ I have **Olympic-level pacing skills** when I’m deep in thought.  
-🎬 I plan my life like a **movie script**, but the plot twists always catch me off guard.  
-📅 I convince myself I work best under pressure… until I’m actually under pressure.  
-🧩 I get easily distracted—unless I’m hyper-focused, in which case, I forget the world exists.  
-🌌 I could stare at the **night sky for hours** and still think, *"Just five more minutes…"*  
-*(Ohkay now this is too much...)*  
-
----
-
-## 📌 Projects  
-*(Coming soon... 👀✨)*  
-
----
-
-## 📫 Let's Connect!  
-💼 [LinkedIn](https://linkedin.com/in/h-khanum) 📩 [Email](hafsaa.khanum@gmail.com) 📌 [Portfolio Website](https://h-khanum.github.io) (Coming soon 🚀)  
+## Let's Connect!  
+[LinkedIn](https://linkedin.com/in/h-khanum) [Email](hafsaa.khanum@gmail.com) [Portfolio Website](https://h-khanum.github.io) (Coming soon)  
 
 ---
 
