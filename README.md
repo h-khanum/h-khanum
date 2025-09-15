@@ -20,7 +20,7 @@ Welcome to my **GitHub space**
 🔹 **Languages:** Python, SQL, R  
 🔹 **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow  
 🔹 **Data Visualization:** Matplotlib, Seaborn  
-🔹 **AI & ML:** Deep Learning, NLP, Predictive Modeling  
+🔹 **AI & ML:** Deep Learning, NLP, Predictive Modelling  
 🔹 **Other:** Web Scraping, Git, Bash  
 
 ### Tools & Technologies  
