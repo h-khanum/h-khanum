@@ -9,11 +9,6 @@ Welcome to my **GitHub space**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-khanum&theme=radical&count_private=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-khanum&theme=radical&margin-w=15" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-khanum&layout=compact&theme=radical&count_private=true" height="140"/>
-</p>
-
 ---
 
 ## Tech & Skills  
